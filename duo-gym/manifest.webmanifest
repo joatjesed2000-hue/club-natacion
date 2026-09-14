@@ -1,0 +1,20 @@
+{
+  "name": "Dúo · Tu mes de movimiento",
+  "short_name": "Dúo Gym",
+  "description": "Rutina de 30 días y progreso de dos personas en este dispositivo.",
+  "lang": "es",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5ef",
+  "theme_color": "#193e32",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
